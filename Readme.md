@@ -58,7 +58,7 @@ attribute totalPrice pada kelas `Pc` diambil dari total penjumlaha dari attribut
 
 2. Java
 
-![java](/screenshots/Java.png)
+![java](/screenshots/java.png)
 
 3. PHP
 
